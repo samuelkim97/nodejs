@@ -1,1 +1,1 @@
-# I'm learing Node JS!
+# I'm learning Node JS!
